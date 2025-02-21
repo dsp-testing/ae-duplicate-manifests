@@ -1,0 +1,18 @@
+{
+    "name": "shallow-deps-project",
+    "version": "1.0.0",
+    "description": "A sample npm project with very few dependencies and a shallow dependency tree.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "uvu": "0.5.3",
+      "ansi-regex": "3.0.0"
+    },
+    "devDependencies": {
+      "lodash": "4.17.20"
+    },
+    "license": "MIT"
+  }
+  
